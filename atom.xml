@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DAYU</title>
+  
+  
+  <link href="https://dayu.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://dayu.github.io/"/>
+  <updated>2025-05-27T03:39:02.750Z</updated>
+  <id>https://dayu.github.io/</id>
+  
+  <author>
+    <name>Dayu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://dayu.github.io/2025/05/27/hello-world/"/>
+    <id>https://dayu.github.io/2025/05/27/hello-world/</id>
+    <published>2025-05-27T02:17:56.000Z</published>
+    <updated>2025-05-27T03:39:02.750Z</updated>
+    
+    <content type="html"><![CDATA[<p> 欢迎访问我的站点，这是一个小小的尝试。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt; 欢迎访问我的站点，这是一个小小的尝试。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
